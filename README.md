@@ -5,3 +5,4 @@ With the advent of L2s, data storage will get progressively cheaper and cheaper.
 ## Addresses
 
 Mantle: 0x7F200A7F5AE72105cd334d78AD94B556d773B209
+Optimism: 0x8AA88a8400Be771554935fDf8bD283105C4d99fa
