@@ -1,0 +1,7 @@
+networks:
+  optgoerli:
+    host: https://opt-goerli.g.alchemy.com/v2/2Qdi2YhSvS-Tk4NCAy07ohEv_wMji_RN
+    chainid: 10
+  mantle:
+    host: https://rpc.ankr.com/mantle_testnet
+    chainid: 5000
